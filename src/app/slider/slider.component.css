@@ -1,0 +1,24 @@
+@media (max-width: 670px) {
+      .carousel-inner {
+
+        width: 100%;
+      }
+
+      .carousel-caption {
+       display: none;
+      }
+
+      .carousel-caption h3 {
+    display: none;
+
+      }
+   
+
+      .carousel-caption p {
+        display: none;
+      }
+
+      .carousel-control-prev span {
+        display: none;
+      }
+    }
